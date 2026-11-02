@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+*.iml
+.vscode/
+
+# Flutter and Dart
+.dart_tool/
+.flutter-plugins-dependencies
+build/
+coverage/
+
+# Signing material: never commit
+*.jks
+*.keystore
+key.properties
